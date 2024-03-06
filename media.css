@@ -1,0 +1,29 @@
+@media screen and (max-width: 756px){
+    .content{
+        display: flex;
+        flex-direction: column; 
+        margin-left: 0;
+        width: 100%;
+        margin-top: 1.925rem;
+        align-items: center;
+    }
+    .page{
+        margin-top: 10.875rem;
+        width: 95%;
+        /* margin-left: .625rem; */
+       
+    }
+    h1{
+        text-align: center;
+    }
+    .logo p{
+        font-size: small;
+        text-align: center;
+    }
+    .form-page{
+        width: 100%;
+    }
+    .main{
+        width: 100%;
+    }
+}

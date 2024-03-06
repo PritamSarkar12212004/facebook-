@@ -1,0 +1,12 @@
+#creat:hover{
+    background-color:#3aad23 ;
+}
+#creat:active{
+    transform: scale(1.03 );
+}
+a:hover{
+    text-decoration: underline;
+}
+#login:hover{
+  background-color: #0863da;
+}
